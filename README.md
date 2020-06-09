@@ -72,7 +72,7 @@ Also the project runs over the **Firebase** which makes the software is much smo
 
 As the software fills all the requirements, base features and also handles almost every exceptions, so we believe this software is correct as asked. 
 
-## Why it is more usefool than previously developed "ChatCheese"
+## Why it is more useful than previously developed "ChatCheese"
 
 If we take a look on our previously developed **ChatCheese** it was build on **Java** with help of SQL server provided by db4free.net but in this development of Mentorism we build a software based on windows platform in **C#** with **Firebase** using **Firesharp API** which is a big difference here. As we know old **JDBC** connector is too slow and noever developed as Firebase was being developed so keeping and showing records from database is much easier than **ChatCheese**
 
