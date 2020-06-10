@@ -1,0 +1,87 @@
+D:\Mentorism V 2.0\bin\Debug\Mentorism V 2.0.exe.config
+D:\Mentorism V 2.0\bin\Debug\Mentorism V 2.0.exe
+D:\Mentorism V 2.0\bin\Debug\Mentorism V 2.0.pdb
+D:\Mentorism V 2.0\obj\Debug\Mentorism V 2.0.csprojAssemblyReference.cache
+D:\Mentorism V 2.0\obj\Debug\Mentorism_V_2._0.Properties.Resources.resources
+D:\Mentorism V 2.0\obj\Debug\Mentorism V 2.0.csproj.GenerateResource.cache
+D:\Mentorism V 2.0\obj\Debug\Mentorism V 2.0.csproj.CoreCompileInputs.cache
+D:\Mentorism V 2.0\obj\Debug\Mentorism V 2.0.exe
+D:\Mentorism V 2.0\obj\Debug\Mentorism V 2.0.pdb
+D:\Mentorism V 2.0\bin\Debug\FireSharp.dll
+D:\Mentorism V 2.0\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Mentorism V 2.0\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Mentorism V 2.0\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Mentorism V 2.0\bin\Debug\Newtonsoft.Json.dll
+D:\Mentorism V 2.0\bin\Debug\System.Net.Http.Extensions.dll
+D:\Mentorism V 2.0\bin\Debug\System.Net.Http.Primitives.dll
+D:\Mentorism V 2.0\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Mentorism V 2.0\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Mentorism V 2.0\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Mentorism V 2.0\bin\Debug\Newtonsoft.Json.xml
+D:\Mentorism V 2.0\bin\Debug\System.Net.Http.Extensions.xml
+D:\Mentorism V 2.0\bin\Debug\System.Net.Http.Primitives.xml
+D:\Mentorism V 2.0\obj\Debug\Mentorism V 2.0.csproj.App.config
+D:\Mentorism V 2.0\obj\Debug\Mentorism V 2.0.csproj.CopyComplete
+D:\Mentorism V 2.0\bin\Debug\IKVM.AWT.WinForms.dll
+D:\Mentorism V 2.0\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\Mentorism V 2.0\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\Mentorism V 2.0\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+D:\Mentorism V 2.0\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\Mentorism V 2.0\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\Mentorism V 2.0\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\Mentorism V 2.0\bin\Debug\IKVM.OpenJDK.Localedata.dll
+D:\Mentorism V 2.0\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\Mentorism V 2.0\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\Mentorism V 2.0\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\Mentorism V 2.0\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\Mentorism V 2.0\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+D:\Mentorism V 2.0\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\Mentorism V 2.0\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\Mentorism V 2.0\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\Mentorism V 2.0\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Mentorism V 2.0\bin\Debug\IKVM.OpenJDK.Tools.dll
+D:\Mentorism V 2.0\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Mentorism V 2.0\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\Mentorism V 2.0\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+D:\Mentorism V 2.0\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+D:\Mentorism V 2.0\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+D:\Mentorism V 2.0\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+D:\Mentorism V 2.0\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+D:\Mentorism V 2.0\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+D:\Mentorism V 2.0\bin\Debug\IKVM.Runtime.dll
+D:\Mentorism V 2.0\bin\Debug\IKVM.Runtime.JNI.dll
+D:\Mentorism V 2.0\obj\Debug\Mentorism_V_2._0.dlg.resources
+D:\Mentorism V 2.0\obj\Debug\Mentorism_V_2._0.Main.resources
+D:\Mentorism V 2.0\bin\Debug\en-US\Mentorism V 2.0.resources.dll
+D:\Mentorism V 2.0\obj\Debug\Mentorism_V_2._0.dlg.en-US.resources
+D:\Mentorism V 2.0\obj\Debug\en-US\Mentorism V 2.0.resources.dll
+D:\Mentorism V 2.0\obj\Debug\Mentorism_V_2._0.Chat.resources
+D:\Mentorism V 2.0\bin\Debug\BouncyCastle.Crypto.dll
+D:\Mentorism V 2.0\bin\Debug\Google.Protobuf.dll
+D:\Mentorism V 2.0\bin\Debug\K4os.Compression.LZ4.dll
+D:\Mentorism V 2.0\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Mentorism V 2.0\bin\Debug\K4os.Hash.xxHash.dll
+D:\Mentorism V 2.0\bin\Debug\MySql.Data.dll
+D:\Mentorism V 2.0\bin\Debug\Renci.SshNet.dll
+D:\Mentorism V 2.0\bin\Debug\System.Buffers.dll
+D:\Mentorism V 2.0\bin\Debug\System.Memory.dll
+D:\Mentorism V 2.0\bin\Debug\System.Numerics.Vectors.dll
+D:\Mentorism V 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Mentorism V 2.0\bin\Debug\Ubiety.Dns.Core.dll
+D:\Mentorism V 2.0\bin\Debug\Zstandard.Net.dll
+D:\Mentorism V 2.0\bin\Debug\Google.Protobuf.xml
+D:\Mentorism V 2.0\bin\Debug\K4os.Compression.LZ4.xml
+D:\Mentorism V 2.0\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Mentorism V 2.0\bin\Debug\K4os.Hash.xxHash.xml
+D:\Mentorism V 2.0\bin\Debug\MySql.Data.xml
+D:\Mentorism V 2.0\bin\Debug\Renci.SshNet.xml
+D:\Mentorism V 2.0\bin\Debug\System.Buffers.xml
+D:\Mentorism V 2.0\bin\Debug\System.Memory.xml
+D:\Mentorism V 2.0\bin\Debug\System.Numerics.Vectors.xml
+D:\Mentorism V 2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Mentorism V 2.0\obj\Debug\Mentorism_V_2._0.saved.resources
+D:\Mentorism V 2.0\obj\Debug\Mentorism_V_2._0.fnotf.resources
+D:\Mentorism V 2.0\bin\Debug\Mentorism V 2.0.exe.manifest
+D:\Mentorism V 2.0\bin\Debug\Mentorism V 2.0.application
+D:\Mentorism V 2.0\obj\Debug\Mentorism V 2.0.exe.manifest
+D:\Mentorism V 2.0\obj\Debug\Mentorism V 2.0.application
