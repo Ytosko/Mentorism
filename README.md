@@ -56,7 +56,7 @@ Our aim is to build a complete chat system that will be used under a common netw
 
    - [ ]  Operations
          
-    - Save Chat : By clicking save exchanged messages the user is allowed to save the messages to the SQL server very easily
+    - Save Chat : By clicking save exchanged messages the user is allowed to save the messages to the **Firebase** very easily
     - Save as : This option allow user to save the exchanged messages locally on the device as a text file
    - Exit : This option provide host to destroy the server and kick everyone out of the server and also every connected client to leave the chat room.
 
