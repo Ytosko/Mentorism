@@ -39,11 +39,11 @@ Our aim is to build a complete chat system that will be used under a common netw
 
 1. **Server** : In this package we get pre-built server which can trigger any time. When a user enter a port number / pin by clicking on "Create chat" the server will load immediately after a small verification about the pin number is valid or not and the server will initiate the required communication setup so that the can join the server. In this system the system automatically scan IP address of the machine and tart the server with the port number and also allow everyone to join the chat using the port number which is the pin here along with the IP address of their machine by which the system allows chatting from different machine under a same network connection.
 
-2. Client : When client system is launched the client must enter the pin [Which is the port number] and the name to join the chat room.
+2. **Client** : When client system is launched the client must enter the pin [Which is the port number] and the name to join the chat room.
 
-3. Chat room : Here are details of every fields in the chat room :
+3. **Chat room** : Here are details of every fields in the chat room :
 
-     TextArea and Send button : There are two text box which are for 
+     * TextArea and Send button : There are two text box which are for 
  showing messages and typing a new message and a send button.
 
     * Left side JList : This list includes a scrollbar which contains the name of connected users which updates in every 5 seconds.
@@ -86,7 +86,7 @@ Although the main concept for multithreaded server is same both on **Mentorism**
 ## Q & A
 
  1. Does **.NET Framework** need to be installed machine is required to run the file ?
-     * Yes, although the fill will download required all the files before installing itself!
+     * Yes, although the file will download required all the files before installing itself!
  2. Minimum requirements for running this software ?
      * 4 GB of Ram with **Windows 10** is enough to run the software perfectly
 
