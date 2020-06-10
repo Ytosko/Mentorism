@@ -43,12 +43,12 @@ Our aim is to build a complete chat system that will be used under a common netw
 
 3. **Chat room** : Here are details of every fields in the chat room :
 
-     * TextArea and Send button : There are two text box which are for 
+   * TextArea and Send button : There are two text box which are for 
  showing messages and typing a new message and a send button.
 
-    * Left side JList : This list includes a scrollbar which contains the name of connected users which updates in every 5 seconds.
+   * Left side JList : This list includes a scrollbar which contains the name of connected users which updates in every 5 seconds.
 
-    * Right side JList :  This list contains the name of the selected users to whome a clint is sending the message. When the list is empty the message will be sending to everyone connected to the server on the port number
+   * Right side JList :  This list contains the name of the selected users to whome a clint is sending the message. When the list is empty the message will be sending to everyone connected to the server on the port number
 
    * Menu-bar : The section of the menu bar : 
 
