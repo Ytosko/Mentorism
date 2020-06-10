@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Data.SqlClient;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Net.NetworkInformation;
 using System.Text;
@@ -50,6 +51,7 @@ namespace Mentorism_V_2._0
 
             clientA = new FirebaseClient(config);
             InitializeComponent();
+
             string path = @".\SavedChats";
 
             try
@@ -67,7 +69,6 @@ namespace Mentorism_V_2._0
             {
                 Console.WriteLine("The process failed: {0}", er.ToString());
             }
-
         }
  
 

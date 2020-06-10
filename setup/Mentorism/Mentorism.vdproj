@@ -2026,12 +2026,6 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_E35B4D624D070D59F35F6B9979072D5A"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_5706B01DD3594DD18CB9DC60E696D485"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -2971,6 +2965,12 @@
         "OwnerKey" = "8:_6035F205130876F3B541CD0870E2241C"
         "MsmSig" = "8:_UNDEFINED"
         }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_E35B4D624D070D59F35F6B9979072D5A"
+        "MsmSig" = "8:_UNDEFINED"
+        }
     }
     "Configurations"
     {
@@ -3031,6 +3031,27 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:Microsoft.Visual.C++.14.0.x86"
+                    {
+                    "Name" = "8:Visual C++ \"14\" Runtime Libraries (x86)"
+                    "ProductCode" = "8:Microsoft.Visual.C++.14.0.x86"
+                    }
+                }
+            }
         }
     }
     "Deployable"
@@ -8550,7 +8571,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Mentorism"
         "ProductCode" = "8:{2EABB030-8031-4890-BA56-F155E1F413A4}"
-        "PackageCode" = "8:{5C389E8B-805D-4503-9E42-A90B4C64F77D}"
+        "PackageCode" = "8:{BF858955-1518-4D68-990F-472C9FC55714}"
         "UpgradeCode" = "8:{98D0FE2E-2A49-4935-B11D-27B66C224BF0}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -9113,7 +9134,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_5706B01DD3594DD18CB9DC60E696D485"
             {
-            "SourcePath" = "8:"
+            "SourcePath" = "8:..\\..\\obj\\Release\\Mentorism V 2.0.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_22A2136E2D7440DFB582B970689024D4"

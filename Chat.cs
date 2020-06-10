@@ -428,7 +428,7 @@ namespace Mentorism_V_2._0
                 }
                 catch (Exception er)
                 {
-                    Console.WriteLine("The process failed: {0}", e.ToString());
+                    Console.WriteLine("The process failed: {0}", er.ToString());
                 }
                 finally {
                     System.IO.StreamWriter file = new System.IO.StreamWriter(@".\SavedChats\" + portx + ".txt");
