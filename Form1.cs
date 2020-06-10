@@ -50,6 +50,23 @@ namespace Mentorism_V_2._0
 
             clientA = new FirebaseClient(config);
             InitializeComponent();
+            string path = @".\SavedChats";
+
+            try
+            {
+                if (Directory.Exists(path))
+                {
+                    Console.WriteLine("That path exists already.");
+                    return;
+                }
+                DirectoryInfo di = Directory.CreateDirectory(path);
+                Console.WriteLine("The directory was created successfully at {0}.", Directory.GetCreationTime(path));
+
+            }
+            catch (Exception er)
+            {
+                Console.WriteLine("The process failed: {0}", er.ToString());
+            }
 
         }
  
